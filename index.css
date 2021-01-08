@@ -1,0 +1,178 @@
+h1{
+    font-size:50px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align:center;
+    background-color: skyblue;
+    text-decoration-color: greenyellow;
+}
+
+h1,h2{
+    color:green;
+}
+
+h2{
+    caret-color:sandybrown;
+    font-style: oblique;
+    text-decoration-color: springgreen;
+    text-align-last:auto;
+    text-size-adjust: 78;
+}
+
+h3{
+    color:deeppink;
+    font-style: italic;
+    text-decoration-color: gold;
+}
+.a{
+    color:honeydew;
+    font-size:italic;
+    text-decoration:gold ;
+}
+.a{
+    color:honeydew;
+    text-decoration:underline ;
+    font-size:20px;
+    font-style: oblique;
+    font-size:50ox;
+}
+
+/*body{
+    /*background-color:darkcyan;
+    bankground-image:url("
+
+    */
+    body{
+        background-image: url("https://");
+        background-size: 2000px 700px,cover;;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: 100% 70%;
+    }
+
+    #banner{
+        color:tomato;
+        text-decoration: underline;
+        font-size:20px;
+        font-style: oblique;
+        font-size:50px;
+    }
+
+    .new{
+        color:cyan;
+        font-size:50px;
+        padding: 30px 20px 10px 40px; /(top,right,bottom,left)/
+        padding-right: 20px;
+        border:2px solid orange;
+        margin:50px 20px 20px 30px;
+    }
+    .box1{
+        color:cyan;
+        margin:20px;
+        width:100px;
+        height:100px;
+
+    }
+    .box2{
+        color:cyan;
+        margin:20px;
+        width:100px;
+        height:100px;
+        background-color: pink;
+    }
+
+    .new:hover{
+        color:red;
+
+    }
+
+    .box3{
+        border:2px solid palegoldenrod;
+        margin:20px;
+        width:100px;
+        height:100px;
+        background-color: paleturquoise;
+    }
+
+    .box3:hover{
+        background-color: powderblue;
+    }
+
+    .box4{
+        border:2px solid palegoldenrod;
+        margin:-200px 500px 500px 150px;
+        padding:50px;
+        width:100px;
+        height:50px;
+        background-color: paleturquoise;
+        display: inline;
+    
+
+    }
+
+    .hyper:link{
+        background-color: chartreuse;
+    }
+    .insta:visited{
+        background-color: blue;
+    }
+    .insta{
+        text-decoration: none;
+    }
+    table tr,th{
+        border:2px soild blueviolet;
+    }
+    tr:nth-child(even){
+        background-color:coral;
+    }
+     tr:nth-child(odd){
+        background-color:blue;
+    }
+    tr:nth-child(even):hover{
+        background-color:darkkhaki;
+    }
+    .comb{
+        color:blue;
+    }
+    div p{
+        color:fuchsia;
+    }
+    div>p{
+        color:indigo;
+    }
+    div+p{
+        color: lawngreen;
+    }
+    div~p{
+        color:mediumaquamarine;
+    }
+   .pos{
+       position: static;
+       border:2px solid red;
+   }
+
+   .one{
+position: relative;
+top: 20px;
+background-color: mediumorchid;
+   }
+   .two{
+       /*position:absolute;
+       top:90px;*/
+       background-color: peru;
+   }
+   .special{
+    position: relative;
+    top: 20px;
+    background-color: mediumorchid;
+    
+   }
+
+   .button{
+       background-color: lightblue;
+       color:white;
+       position:fixed;
+       top:0;
+       right: o;
+   }
